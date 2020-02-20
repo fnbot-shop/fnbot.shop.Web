@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>fnbot.shop.Web</PackageId>
+    <Description>A simple HTTP library that works</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/fnbot-shop/fnbot.shop.Web</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/fnbot-shop/fnbot.shop.Web.git</RepositoryUrl>
+    <PackageTags>http, web, fnbot, shop, client, https, ssl, cookies, post, get</PackageTags>
+    <Copyright>Copyright © Aleks Margarian 2020</Copyright>
+  </PropertyGroup>
+
+</Project>
