@@ -11,6 +11,9 @@
     <RepositoryUrl>https://github.com/fnbot-shop/fnbot.shop.Web.git</RepositoryUrl>
     <PackageTags>http, web, fnbot, shop, client, https, ssl, cookies, post, get</PackageTags>
     <Copyright>Copyright © Aleks Margarian 2020</Copyright>
+    <Version>1.1.0</Version>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <PackageReleaseNotes>Generalized client implementation to allow custom implementations</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
